@@ -1,0 +1,2 @@
+rootProject.name='RockSaw Chat'
+include ':app'
